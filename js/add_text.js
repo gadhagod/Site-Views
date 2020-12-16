@@ -1,0 +1,1 @@
+document.body.innerHTML = document.body.innerHTML + "{{ tag }}{{ views }}{{ end_tag }}";

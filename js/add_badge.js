@@ -1,0 +1,1 @@
+document.body.innerHTML = document.body.innerHTML + `{{ align }}{{ badge }}{{ end_align }}`;
