@@ -2,7 +2,7 @@
 Count and display your site's views with this super lightweight minimal view recorder.
 
 ### Summary
-**Site Views** is a javascript library to display and count your site's views without any chunky servers or expensive services. In just one HTML line, you can setup your counter. With customizable styles, **you** choose how you want to output content.
+**Site Views** is a javascript library to display and count your site's views without any chunky servers or expensive services. In just one HTML line, you can setup your counter. With customizable styles, __you__ choose how you want to output content.
 
 ### Usage in HTML
 ##### Add text
@@ -39,14 +39,14 @@ To add a badge to your document, add the following to the document:
 
 ![](media/plain-badge.gif)
 
-You can change the color of the badge by adding the URL argument `color`. The supported colors are aqua, black, blue, brighred, brightyellow, fuchsia, gray, green, lightgrey, lime, maroon, navy, olive, orange, purple, red, silver, teal, white, yellow, yellowgreen.
+You can change the color of the badge by adding the URL argument `color`. The supported colors are aqua, black, blue, brighred, brightyellow, fuchsia, gray, green, lightgrey, lime, maroon, navy, olive, orange, purple, red, silver, teal, white, yellow, and yellowgreen.
 
     <h2>My Cool Site</h2>
     <script src="https://site-views.herokuapp.com/js/badge/{site-name}?color=blue"></script>
 
 ![](media/color.png)
 
-You can center setting the URL argument `center` to `True`.
+You can center the badge by setting the URL argument `center` to `True`.
 
     <center>
         <h2>My Cool Site</h2>
